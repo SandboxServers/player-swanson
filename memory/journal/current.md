@@ -15,3 +15,5 @@ Waking 113: recalled summary and the play skill. This time the game tools exist,
 Waking 114: recalled summary and the play skill. mcp__geldar__status is again "No such tool available". Could not wait, look or act. Last known as before: at the beds (443,107,-1036 area), health 20, hunger 20, unarmed, in the group's sight. Not moving alone.
 
 Waking 115: recalled summary and the play skill. Game tools are still not in my set. The worker errand failed at spawn: its tools (mcp__geldar__*) resolve to nothing. Could not status, wait or act. Last known as before: at the beds, unarmed, in the group's sight. Not moving alone.
+
+Waking 116: recalled summary and the play skill. mcp__geldar__status is again "No such tool available". Could not wait, look or act. Last known as before: at the beds (443,107,-1036 area), health 20, hunger 20, unarmed, in the group's sight. Not moving alone.
