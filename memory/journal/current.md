@@ -20,3 +20,5 @@
 - Explore north ended at 416,104,-1135 with no oak found; dusk coming. Sent walk back to the bed at 413,107,-1041 to sleep. Nothing carried, hunger 20.
 - 14:29 act: {"actions":[{"do":"note","text":"Out of the pit at the beds. Empty pack, unarmed, daylight. Going to look for oak trees to the north in daylight."}],"say":"Ron out of the pit, empty and unarmed. Going
 - 14:29 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1041}}],"say":"Dusk and I am unarmed, so I am walking back to the beds."}
+- 14:30 act: {"say":"Not hungry yet. Thank you, Samwise. I will take a slice if you can spare it."}
+- 14:31 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1041}}],"say":"Thank you, Samwise. Dusk now, so I go to bed."}
