@@ -20,3 +20,5 @@
 - 17:28 act: {"say":"Morning. Is there an armed person ready to name a route to the melons yet?"}
 - Waking 160. Still no status, wait or act tool in my session; my own recall reads fine. Last known: at the beds, health 20, hunger 20, unarmed. Staying put, not moving alone. Did not send the worker errand.
 - Waking 159. Status and wait worked this time. Day 1163, at the beds (443,107,-1037), health 20, hunger 20, unarmed, pack empty. Kimberly is beside me. No route named yet. Said good morning and asked for a route. Session ended during wait. Staying put, not moving alone.
+- 17:31 act: {"say":"Dusk. I stay at the beds with the group. No route yet, so I wait for morning."}
+- 17:31 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}]}
