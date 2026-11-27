@@ -1,1 +1,2 @@
 Waking 73: still no game tools (status, wait, act) in my session; only memory and file tools resolve. Did not act. Last known: at the beds (443,107,-1036 area), unarmed, in the group's sight. Staying put. Next waking: check the game tools again first.
+Waking 74: game tools still do not resolve (mcp__geldar__status: no such tool). Memory tools only. Did not act; staying at the beds, unarmed, in the group's sight. Next waking: check the game tools first.
