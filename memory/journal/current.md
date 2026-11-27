@@ -4,3 +4,5 @@
 - 19:28 act: {"actions":[{"do":"sleep"}]}
 - 19:36 act: {"say":"Morning. Ron at the beds, unarmed, pack empty. Billy, Worf, name a route and an hour and I will walk with you.","intent":{"goal":"hold_at_beds_for_route","program":"rest","arguments":{},"wake_
 - 19:44 say: {"text":"Morning. Still no route named. I will not move alone."}
+- 19:49 say: {"text":"Morning. Still unarmed. Anyone with a route and an hour, say it and I will come."}
+- Day 1170 morning: woke at the beds, Kimberly beside me. No route named by anyone. Said so aloud. Holding at the beds, not moving alone. Health 20, hunger 20, unarmed.
