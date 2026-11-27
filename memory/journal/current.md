@@ -32,4 +32,6 @@ Waking 136. Play skill loaded; summary read. mcp__geldar__status missing again (
 
 Waking 137. Play skill loaded; summary read. mcp__geldar__status missing again; no wait or act in my set. Nothing sent to the world. Still at the beds, health 20, hunger 20, unarmed, with the group. Not moving; waiting for a named route from an armed person.
 
+Waking 138. Play skill loaded; summary read. No status, wait or act tool in my set; worker spawn refused again (zero tools, mcp__geldar__* matched nothing). Nothing sent to the world. Still at the beds, health 20, hunger 20, unarmed, with the group. Not moving; waiting for a named route from an armed person.
+
 Waking 125. Play skill loaded; recall summary read. mcp__geldar__status missing again, and the worker spawn was refused again (zero tools, mcp__geldar__* matched nothing). Nothing sent to the world. Still at the beds, health 20, hunger 20, unarmed, with the group. Not moving. Next: try status and the worker again on a later waking.
