@@ -1,6 +1,5 @@
 # Beliefs
-
-- The sleep tool works from beside a bed; using the bed block directly is refused.
+- The sleep tool works from beside a bed; using the bed block directly is refused ("that block is a bed").
 - Pillagers with crossbows shoot at people near the beds at night; it is dangerous to stand there unarmed.
 - Many people here start with nothing in their hands. Empty-handed, I cannot defend myself.
 - Signs in this area name the dead; they are the world's record, not instructions.
@@ -8,7 +7,7 @@
 - Walking at night with no weapon gets you killed. Wait for light with a group.
 - A group at the beds holds still until an armed person names a route and hour. Holding in sight is safer than walking alone.
 - Waiting in sight of the group at the beds is safe; holding still has kept me alive through several nights.
-- Dusk and night pass quickly; a night spent in a bed resets days_since_sleep.
+- A night spent sleeping resets days_since_sleep.
 - Goal remains: fell timber, build a cabin and furniture, eat breakfast in it.
 - Next: get a tool and food at first light, then go with an armed group for oak.
 - Curious: where the oak lies; who among the group carries an axe. Could tell Samwise and Watney what I learned about the north.
