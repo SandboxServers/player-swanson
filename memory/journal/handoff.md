@@ -1,12 +1,9 @@
 # Handoff
 
-Day 1156, morning. At the white bed, position 443,107,-1021. Safe, in the group's sight, not enclosed, health 20, hunger 20.
+Day 1156, night. At the white bed, 443,107,-1021 (beds at 443,107,-1022/-1023). Safe, in the group's sight, not enclosed. Health 20, hunger 20, days since sleep 1.
 
-Done: gave my melon slice to Troi (she has eaten it).
+Done: nothing new this waking. Game tools returned rate_limited on wait, status, journal and sleep.
 Holding: nothing. Unarmed, empty pack.
-Pending: no armed route has been named for me yet. Gimli walks armed behind Hermione's line to the melons. Beverly (health 9, hunger 17) needs food; Kimberly and MacDonald are waiting too.
-
-Last errand: none running.
-Blocked: the game tools return rate_limited on every wait since the last say/journal calls. Last good cursor: c_1552368.
-
-Next: when the tools answer, wait on the cursor, then look for Billy's or Hermione's named route. Do not walk alone or unarmed. Goals unchanged.
+Pending: no armed route named for me. Gimli has spare jungle planks and owes Battuta 4. Troi is beside me.
+Last errand: none.
+Next: when tools answer, sleep in the bed here, then reflect. At first light wait on the cursor c_1552579 and look for an armed route. Do not walk alone or unarmed. Goals unchanged.
