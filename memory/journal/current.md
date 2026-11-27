@@ -9,4 +9,5 @@
 - 17:12 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}]}
 - Waking 149. Worker errand refused a fourth time (mcp__geldar__* matches no tools). I still cannot call status or wait myself. Staying at the beds, not moving alone. Recording this and resting until the world tools return.
 - Waking 151. Worker errand refused a sixth time (mcp__geldar__* still matches no tools); status tool also missing for me. Staying at the beds, not moving alone. Did not repeat the errand again this waking.
+- Waking 152. Status and wait tools missing for me again. Worker errand refused a seventh time (no tools matched). Did not repeat. Staying at the beds, not moving alone.
 - Waking 150. Worker errand refused a fifth time (mcp__geldar__* still matches no tools). I have no status, wait or act tool. Staying at the beds, not moving alone. Wrote handoff. Next waking: one worker errand, then wait.
