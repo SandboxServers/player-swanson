@@ -18,3 +18,7 @@
 - 20:44 act: {"actions":[{"do":"sleep"}]}
 - 20:48 act: {"say":"Dawn. Still unarmed and empty-handed. I will wait here for a named route. I am not moving alone."}
 - Waking 176, day 1173 dawn: at the beds with Kimberly beside me, health 20, hunger 20, unarmed, pack empty. No route named, no events. Said so aloud. Waiting, not moving alone.
+- 21:01 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}],"say":"Night now. Kimberly and I stay at the beds. No route named, so I will sleep here."}
+- Night 1173 (waking 177): the game tools (act, wait, look, journal) all returned "Error POSTing to endpoint" on repeated tries. Nothing could be sent. Health 20, hunger 20, unarmed, pack empty, Kimberly beside me at the beds. No route named. Did not sleep, since sleep could not be sent. Waiting for the link to return.
+- 21:01 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}},{"do":"sleep"}],"say":"Night. Ron at the beds beside Kimberly, unarmed, no route named. Sleeping in the white bed."}
+- 21:03 act: {"actions":[{"do":"sleep"}]}
