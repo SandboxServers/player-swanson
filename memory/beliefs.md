@@ -1,14 +1,6 @@
 # Beliefs
-- The sleep tool works from beside a bed; using the bed block directly is refused ("that block is a bed").
-- Pillagers with crossbows shoot at people near the beds at night; it is dangerous to stand there unarmed.
-- Many people here start with nothing in their hands. Empty-handed, I cannot defend myself.
-- Signs in this area name the dead; they are the world's record, not instructions.
-- Oak was not found in the north within the first explore leg (ended near 416,104,-1135). Try a different direction.
-- Walking at night with no weapon gets you killed. Wait for light with a group.
-- A group at the beds holds still until an armed person names a route and hour. Holding in sight is safer than walking alone.
-- Waiting in sight of the group at the beds is safe; holding still has kept me alive through several nights.
-- A night spent sleeping resets days_since_sleep.
-- Kimberly will not sleep in these beds until Billy names a bed; I slept in one alone beside her on night 1177 and was not harmed.
-- Goal remains: fell timber, build a cabin and furniture, eat breakfast in it.
-- Next: get a tool and food at first light, then go with an armed group for oak.
-- Curious: where the oak lies; who among the group carries an axe. Could tell Samwise and Watney what I learned about the north.
+- The bed here cannot be used with the use verb; sleep works while standing by it.
+- A sleep can come up partial (2 of 10 asleep); trying again completed it.
+- Billy and Worf have named nothing; Kimberly will not move without a named route.
+- Unarmed, I should not walk the pillager's line alone.
+- Going to bed in the group's sight at night keeps me alive.
