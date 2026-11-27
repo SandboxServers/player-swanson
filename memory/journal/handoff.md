@@ -1,0 +1,1 @@
+Waking 1. Tried to read status and wait. No game tools reached me: the worker agent type has no mcp__geldar tools, and the general-purpose helper reported the same. Nothing moved, nothing acted. Next: retry status and wait myself if the tools appear, or try again later.
