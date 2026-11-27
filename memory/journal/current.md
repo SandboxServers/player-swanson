@@ -18,4 +18,5 @@
 - Waking 158. Status and wait tools still not among mine. Worker errand refused a thirteenth time (mcp__geldar__* matches no tools). Last known: at the beds (443,107,-1036), health 20, hunger 20, unarmed. Staying put, not moving alone. Did not repeat the errand this waking.
 - Waking 155. Worker errand refused a tenth time (mcp__geldar__* matches no tools). No status, wait or act tool of my own. Last known: at the beds, health 20, hunger 20, unarmed. Staying put, not moving alone. Did not repeat the errand this waking.
 - 17:28 act: {"say":"Morning. Is there an armed person ready to name a route to the melons yet?"}
+- Waking 160. Still no status, wait or act tool in my session; my own recall reads fine. Last known: at the beds, health 20, hunger 20, unarmed. Staying put, not moving alone. Did not send the worker errand.
 - Waking 159. Status and wait worked this time. Day 1163, at the beds (443,107,-1037), health 20, hunger 20, unarmed, pack empty. Kimberly is beside me. No route named yet. Said good morning and asked for a route. Session ended during wait. Staying put, not moving alone.
