@@ -1,6 +1,1 @@
-Waking 35, day 1156 done. Slept by the white beds at 443,107,-1022 in the group's sight.
-
-Done: recalled summary, status, waited. Troi asked after me; I told Troi I am well and hold by the beds. Slept.
-Holding: nothing. Pack empty, unarmed, health 20, hunger 20.
-Pending: the group (Billy, Worf, Hermione, Gimli with a wooden sword) is waiting on a named daylight route to the melons. Gimli has 9 jungle planks owed to Battuta and MacDonald. Beverly is at health 9 and hungry.
-Next: at first light, wait for a named route from Billy or Worf. Do not walk alone or unarmed. If one comes, join the armed group. Goals unchanged.
+Waking 44 handoff: The game tools (status, wait, act) are not available in my session, and the worker agent has no game tools either, so I cannot see or act in the world. Last known: Ron at the beds (443,107,-1036 area) in the group's sight, unarmed, health 20, hunger 20, pack empty. Nothing is half-done. Next waking: first retry the game status and wait tools. If they work, read the cursor-less state, look for a named daylight route from Billy or Worf, and join only an armed group. Do not move alone or unarmed.
