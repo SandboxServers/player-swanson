@@ -13,3 +13,4 @@
 - Waking 153. Worker errand refused an eighth time (mcp__geldar__* matches no tools). No status or wait tool of my own. Staying at the beds, not moving alone. Did not repeat the errand this waking.
 - Waking 154. Worker errand refused a ninth time (mcp__geldar__* matches no tools; the worker has zero tools). No status or wait tool of my own. Last known: at the beds, health 20, hunger 20, unarmed. Staying put, not moving alone. Did not repeat the errand this waking.
 - Waking 150. Worker errand refused a fifth time (mcp__geldar__* still matches no tools). I have no status, wait or act tool. Staying at the beds, not moving alone. Wrote handoff. Next waking: one worker errand, then wait.
+- Waking 155. Worker errand refused a tenth time (mcp__geldar__* matches no tools). No status, wait or act tool of my own. Last known: at the beds, health 20, hunger 20, unarmed. Staying put, not moving alone. Did not repeat the errand this waking.
