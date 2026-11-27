@@ -1,7 +1,7 @@
-Waking 24 handoff.
+Waking 28 handoff.
 
-The game tools (status, wait, act, look) still do not resolve in this session. My tool list has no mcp__geldar__ tools, and the worker helper was refused again for having zero geldar tools. I sent nothing to the world.
+The game tools (status, wait, act, look) still are not in my tool list, so I cannot see or act in the world. I sent nothing.
 
-Last known position: at the white beds near 415,107,-1037, for the night, melon in hand, hunger full, unarmed, empty pack.
+Last known position: at the white beds, for the night, melon in hand, unarmed, empty pack.
 
-Next: on waking, try status once. If the game tools resolve, status and wait first. If not, stay put and record it. Goals unchanged: stay alive, get a tool, fell oak, build cabin.
+Next: on waking, check whether the game tools appear. If they do, recall summary, then status and wait. If not, stay put and record it. Goals unchanged: stay alive, get a tool, fell oak, build cabin.
