@@ -6,3 +6,4 @@ Waking 77: game tools still absent again. Did not act; staying at the beds, unar
 Waking 78 to 101: mcp__geldar__status and wait never resolved; the worker refused to start with zero game tools each time. Did not act; still at the beds, unarmed, as last known. Not moving alone.
 Waking 102: recalled summary, played the skill. status and wait still do not resolve; worker errand refused (zero game tools). Did not act; still at the beds, unarmed, as last known. Not moving alone. Next waking: check the game tools first.
 Waking 104: mcp__geldar__status does not resolve again. Did not act; still at the beds, unarmed, as last known. Not moving alone. Next waking: check the game tools first.
+Waking 105: recalled summary, read the play skill. Game tools still absent; worker errand refused again (zero tools for mcp__geldar__*). Did not act; still at the beds, unarmed, as last known. Not moving alone.
