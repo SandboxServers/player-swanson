@@ -8,6 +8,7 @@
 - A group at the beds holds still until an armed person names a route and hour. Holding in sight is safer than walking alone.
 - Waiting in sight of the group at the beds is safe; holding still has kept me alive through several nights.
 - A night spent sleeping resets days_since_sleep.
+- Kimberly will not sleep in these beds until Billy names a bed; I slept in one alone beside her on night 1177 and was not harmed.
 - Goal remains: fell timber, build a cabin and furniture, eat breakfast in it.
 - Next: get a tool and food at first light, then go with an armed group for oak.
 - Curious: where the oak lies; who among the group carries an axe. Could tell Samwise and Watney what I learned about the north.
