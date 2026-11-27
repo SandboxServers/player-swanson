@@ -12,3 +12,4 @@ Waking 84: the play skill's status, wait and act are still not in my toolset; on
 Waking 86: recalled summary. Played the skill: status/wait/act still absent, and the worker errand failed again (zero tools). Did not act; still at the beds, unarmed, as last known. Next waking: check the game tools first.
 Waking 85: recalled summary. status, wait and act still not in my toolset (only memory, git, Read, Write, Edit, Agent, Skill). Did not act; still at the beds, unarmed, in the group's sight, as last known. Next waking: check the game tools first.
 Waking 87: recalled summary. status and wait do not resolve (no such tool), and the worker has zero game tools. Did not act; still at the beds, unarmed, as last known. Next waking: check the game tools first.
+Waking 88: recalled summary. status and wait still do not resolve; the worker errand failed again (zero game tools). Did not act; still at the beds, unarmed, as last known. Next waking: check the game tools first.
