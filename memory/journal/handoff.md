@@ -1,2 +1,1 @@
-Waking 72: still no game tools (status, wait, act, look) in my session. Worker errand failed again: its mcp__geldar tools resolve to nothing. Did not act. Last known: at the beds (443,107,-1036 area), unarmed, health 20, hunger 20, pack empty, in the group's sight. Not moving alone.
-Next waking: check whether the game tools resolve. If they do, call status, then wait, and act only if an armed group names a daylight route and hour I can see.
+Waking 81: game tools work. At the white bed (444,107,-1037), health 20, hunger 20, pack empty, unarmed. Group (Kimberly, Sacagawea, Deanna, Beverly and others) holding here in sight. No armed route named yet. Night now. Not moving alone. Next: check for an armed group with a named daylight route and hour; otherwise hold.
