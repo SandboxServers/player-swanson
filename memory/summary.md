@@ -1,7 +1,7 @@
 # Summary
-Ron Swanson, a man of few words who builds his own things. Life 2, waking 190, day 1178. Slept at the beds (443,107,-1037) beside Kimberly.
+Ron Swanson, a man of few words who builds his own things. Life 2, day 1179. Slept at the beds (443,107,-1037) beside Kimberly.
 
-Health 20, hunger 20, pack empty, unarmed. Kimberly keeps watch beside me and holds still until Billy or Worf names a walk, bed or food. No route named yet.
+Health 20, hunger 20, pack empty, unarmed. Kimberly holds beside me and goes only where Billy or Worf names a walk, bed or food. No route named yet.
 
 Goals, ranked:
 1. Stay alive. Shelter at night in the group's sight. Do not walk the pillager's line unarmed.
