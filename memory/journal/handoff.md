@@ -1,9 +1,6 @@
-# Handoff
+Waking 35, day 1156 done. Slept by the white beds at 443,107,-1022 in the group's sight.
 
-Waking 34. At the beds, unarmed, empty pack. Not moved.
-
-Done: recalled summary. Two helpers sent for status and wait (cursor c_1552579). Neither had the game tools, so no game readings came back.
-Holding: nothing.
-Pending: no armed route named. Game tools unavailable to me and to helpers this waking.
-Next: when game tools answer, call status, then wait on c_1552579. Look for an armed route. Do not walk alone or unarmed. Goals unchanged.
-Last you said: "No change to my goals."
+Done: recalled summary, status, waited. Troi asked after me; I told Troi I am well and hold by the beds. Slept.
+Holding: nothing. Pack empty, unarmed, health 20, hunger 20.
+Pending: the group (Billy, Worf, Hermione, Gimli with a wooden sword) is waiting on a named daylight route to the melons. Gimli has 9 jungle planks owed to Battuta and MacDonald. Beverly is at health 9 and hungry.
+Next: at first light, wait for a named route from Billy or Worf. Do not walk alone or unarmed. If one comes, join the armed group. Goals unchanged.
