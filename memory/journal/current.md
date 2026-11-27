@@ -16,3 +16,5 @@
 - 20:32 act: {"say":"Ron here, at the beds, unarmed, pack empty. Billy or Worf, if you have a route and an hour, name it. I will not walk it alone."}
 - 20:40 act: {"actions":[{"do":"sleep"}]}
 - 20:44 act: {"actions":[{"do":"sleep"}]}
+- 20:48 act: {"say":"Dawn. Still unarmed and empty-handed. I will wait here for a named route. I am not moving alone."}
+- Waking 176, day 1173 dawn: at the beds with Kimberly beside me, health 20, hunger 20, unarmed, pack empty. No route named, no events. Said so aloud. Waiting, not moving alone.
