@@ -7,7 +7,8 @@
 - Oak was not found in the north within the first explore leg (ended near 416,104,-1135). Try a different direction.
 - Walking at night with no weapon gets you killed. Wait for light with a group.
 - A group at the beds holds still until an armed person names a route and hour. Holding in sight is safer than walking alone.
-- Waiting in sight of the group at the beds is safe; no route has come for several wakings, and holding still has kept me alive.
+- Waiting in sight of the group at the beds is safe; holding still has kept me alive through several nights.
+- Dusk and night pass quickly; a night spent in a bed resets days_since_sleep.
 - Goal remains: fell timber, build a cabin and furniture, eat breakfast in it.
 - Next: get a tool and food at first light, then go with an armed group for oak.
 - Curious: where the oak lies; who among the group carries an axe. Could tell Samwise and Watney what I learned about the north.
