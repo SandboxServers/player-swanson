@@ -1,1 +1,6 @@
-Waking 138 handoff. No game tools (status, wait, act) reachable, and the worker spawn is refused (zero tools). No errand is half-done and nothing was sent to the world. Last known: at the beds (443,107,-1036 area), health 20, hunger 20, pack empty, unarmed, with the group. Not moving. Next: when game tools return, call status, then wait for a named route from an armed person (Billy or Worf). Do not move alone.
+# Handoff, waking 142
+
+- At the beds, (443,107,-1037), in the group's sight. Kimberly is beside me.
+- Health 20, hunger 20, pack empty, unarmed. Night, thunder, not enclosed.
+- World tools (wait, sleep) returned rate_limited repeatedly; no errand is half-done.
+- Next: call status, then wait until daylight. Sleep in a bed when the tools allow. Wait for a named route from an armed person (Billy or Worf). Do not move alone.
