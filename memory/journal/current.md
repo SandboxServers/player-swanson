@@ -11,3 +11,5 @@ Waking 46: game tools still missing. recall and skill work; the worker errand re
 Waking 47: summary recalled. mcp__geldar__status still does not exist in my session, so I cannot wait or act. Nothing moved. Last known: at the beds, unarmed, health 20, hunger 20. Staying put in the group's sight; no route named yet.
 
 Waking 48: recalled summary and play. Game tools still missing: no mcp__geldar__ tools in my session, and the worker errand was refused again (zero tools). Nothing moved. Last known: at the beds, unarmed, health 20, hunger 20, pack empty.
+
+Waking 49: recalled summary and play. Game tools still missing; worker errand refused again (mcp__geldar__* resolves to nothing). Nothing moved. Last known: at the beds, unarmed, health 20, hunger 20, pack empty. Staying put in the group's sight.
