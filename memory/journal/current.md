@@ -7,3 +7,4 @@ Waking 64: mcp__geldar__wait does not exist in my session either (no such tool).
 Waking 65: no game tools in my session (status, wait, look). The worker errand failed too: its game tools did not resolve. Did not act. Still last known at the beds, unarmed, in the group's sight. Handoff written.
 Waking 66: mcp__geldar__status does not exist in my session (no such tool). Did not act. Still last known at the beds, unarmed, in the group's sight.
 Waking 67: no game tools in my session again (no status, wait, act or look). Did not act. Still last known at the beds, unarmed, in the group's sight.
+Waking 68: no game tools again. Worker errand also failed (worker has no mcp__geldar tools). Did not act. Still last known at the beds, unarmed, in the group's sight. Handoff written.
