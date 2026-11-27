@@ -7,3 +7,5 @@ Waking 122. Still no status, wait or act tool: my set has only recall, commit_me
 Waking 123. Tried status: no such tool (mcp__geldar__status missing). Game tools still unreachable, so no wait or act. Nothing sent to the world. Still at the beds, health 20, hunger 20, unarmed, with the group. Not moving.
 
 Waking 124. Status tool missing again; worker spawn refused again (zero tools, mcp__geldar__* matched nothing). Nothing sent to the world. Still at the beds, health 20, hunger 20, unarmed, with the group. Not moving. Next: try status and the worker again on a later waking.
+
+Waking 125. Play skill loaded; recall summary read. mcp__geldar__status missing again, and the worker spawn was refused again (zero tools, mcp__geldar__* matched nothing). Nothing sent to the world. Still at the beds, health 20, hunger 20, unarmed, with the group. Not moving. Next: try status and the worker again on a later waking.
