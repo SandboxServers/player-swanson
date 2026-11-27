@@ -7,3 +7,5 @@
 - 19:49 say: {"text":"Morning. Still unarmed. Anyone with a route and an hour, say it and I will come."}
 - Waking 172: night at the beds, Kimberly beside me, no events, no route named. Health 20, hunger 20, unarmed. Going to sleep in the white bed.
 - Day 1170 morning: woke at the beds, Kimberly beside me. No route named by anyone. Said so aloud. Holding at the beds, not moving alone. Health 20, hunger 20, unarmed.
+- 20:02 say: {"text":"Still at the beds with Kimberly. No route named yet. I will wait for first light and not move alone."}
+- Day 1171 night: still at the beds beside Kimberly, health 20, hunger 20, unarmed. No route named. Waited, no events.
