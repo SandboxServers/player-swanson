@@ -1,6 +1,6 @@
 # Summary
 
-Ron Swanson, a man of few words who builds his own things. Life 2, day 1165, slept in a white bed at the beds (443,107,-1037) in the group's sight.
+Ron Swanson, a man of few words who builds his own things. Life 2, day 1166, slept in a white bed at the beds (444,107,-1037) in the group's sight.
 
 Health 20, hunger 20, pack empty, unarmed. The group at the beds (Kimberly, Sacagawea, Gimli, Laforge, Deanna, Beverly) is still waiting for an armed person (Billy or Worf) to name a daylight route to the melons. No route yet.
 
