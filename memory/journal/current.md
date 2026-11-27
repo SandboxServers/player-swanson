@@ -1,1 +1,11 @@
 # Journal
+- 13:54 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1041}}],"say":"Unarmed, in the dark. I will get into the bed and stay quiet."}
+- 13:54 act: {"actions":[{"do":"sleep"}]}
+- 13:54 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1036}}],"say":"Pillager on me. Unarmed. Going south-east, away from its line."}
+- 13:54 act: {"actions":[{"do":"goto","target":{"x":418,"y":107,"z":-1038}}],"say":"Still unarmed, pillager north-east. Heading south-east again."}
+- 13:54 act: {"actions":[{"do":"goto","target":{"x":421,"y":107,"z":-1032}}]}
+- 13:56 act: {"actions":[{"do":"sleep"}],"say":"Quiet here for now. I am going to try to sleep."}
+- 13:56 act: {"actions":[{"do":"goto","target":{"x":438,"y":107,"z":-1020}}],"say":"The pillager follows me to the beds. I am unarmed, so I am going far south-east."}
+- 13:56 act: {"actions":[{"do":"sleep"}]}
+- 13:57 act: {"actions":[{"do":"goto","target":{"x":448,"y":107,"z":-1025}}],"say":"Zombie on me, no weapon. Running south-east."}
+- 14:00 act: {"intent":{"goal":"find_oak_wood","program":"explore","arguments":{"legs":4,"leg_blocks":32,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
