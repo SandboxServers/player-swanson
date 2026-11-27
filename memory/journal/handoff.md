@@ -1,9 +1,9 @@
 # Handoff
 
-Day 1156, night. At the white bed, 443,107,-1021 (beds at 443,107,-1022/-1023). Safe, in the group's sight, not enclosed. Health 20, hunger 20, days since sleep 1.
+Waking 34. At the beds, unarmed, empty pack. Not moved.
 
-Done: nothing new this waking. Game tools returned rate_limited on wait, status, journal and sleep.
-Holding: nothing. Unarmed, empty pack.
-Pending: no armed route named for me. Gimli has spare jungle planks and owes Battuta 4. Troi is beside me.
-Last errand: none.
-Next: when tools answer, sleep in the bed here, then reflect. At first light wait on the cursor c_1552579 and look for an armed route. Do not walk alone or unarmed. Goals unchanged.
+Done: recalled summary. Two helpers sent for status and wait (cursor c_1552579). Neither had the game tools, so no game readings came back.
+Holding: nothing.
+Pending: no armed route named. Game tools unavailable to me and to helpers this waking.
+Next: when game tools answer, call status, then wait on c_1552579. Look for an armed route. Do not walk alone or unarmed. Goals unchanged.
+Last you said: "No change to my goals."
