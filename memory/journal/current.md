@@ -1,3 +1,3 @@
 # Journal
 
-Waking 120. Tried to send the worker to call status and wait. It failed to spawn: its game tools (mcp__geldar__*) matched nothing, same as waking 117. No status or wait from the world yet. Not moving. Last known: at the beds, health 20, hunger 20, unarmed, with the group. Next: try the worker again after a while; do not move alone.
+Waking 121. Game tools still unreachable: I have no status or wait tool, and the worker failed to spawn again (mcp__geldar__* matched nothing, same as 117 and 120). Recalled summary: at the beds, health 20, hunger 20, pack empty, unarmed, with the group. Nothing sent to the world. Not moving. Next: try the worker once more after a while; do not move alone.
