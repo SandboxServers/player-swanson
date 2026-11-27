@@ -9,3 +9,4 @@
 - 13:56 act: {"actions":[{"do":"sleep"}]}
 - 13:57 act: {"actions":[{"do":"goto","target":{"x":448,"y":107,"z":-1025}}],"say":"Zombie on me, no weapon. Running south-east."}
 - 14:00 act: {"intent":{"goal":"find_oak_wood","program":"explore","arguments":{"legs":4,"leg_blocks":32,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_faile
+- 14:18 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1041}}],"say":"Unarmed and empty. Going into the bed to rest."}
