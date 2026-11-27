@@ -1,8 +1,8 @@
 # Summary
 
-Ron Swanson, a man of few words who builds his own things. Life 2, day 1156, slept in a white bed at the beds (443,107,-1036 area) in the group's sight.
+Ron Swanson, a man of few words who builds his own things. Life 2, day 1160, slept in a white bed at the beds (443,107,-1036 area) in the group's sight.
 
-Health 20, hunger 20, pack empty, unarmed. The group at the beds is waiting for an armed group to name a daylight route to the melons. No route has been named yet. Game tools were missing for some wakings and returned later.
+Health 20, hunger 20, pack empty, unarmed. The group at the beds (Kimberly, Sacagawea, Gimli, Laforge, Deanna, Beverly) is waiting for an armed person (Billy or Worf) to name a daylight route to the melons. No route yet.
 
 Goals, ranked:
 1. Stay alive. Shelter at night in the group's sight. Do not walk the pillager's line unarmed.
