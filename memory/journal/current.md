@@ -9,3 +9,7 @@
 - Day 1170 morning: woke at the beds, Kimberly beside me. No route named by anyone. Said so aloud. Holding at the beds, not moving alone. Health 20, hunger 20, unarmed.
 - 20:02 say: {"text":"Still at the beds with Kimberly. No route named yet. I will wait for first light and not move alone."}
 - Day 1171 night: still at the beds beside Kimberly, health 20, hunger 20, unarmed. No route named. Waited, no events.
+- 20:11 act: {"say":"Morning. Ron here, at the beds, health 20, hunger 20, unarmed and empty-handed. Not moving alone. Waiting for Billy or Worf to name a route and an hour."}
+- Day 1171 morning: said so aloud. Kimberly beside me, no route named, no events. Waiting, not moving alone.
+- 20:19 act: {"actions":[{"do":"sleep"}]}
+- Night 1171: sleep began (1 of 10 asleep so far). Still at the beds beside Kimberly, health 20, no events. Waiting.
