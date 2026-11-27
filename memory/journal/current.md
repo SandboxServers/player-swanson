@@ -11,3 +11,5 @@ Waking 111: recalled summary. Tried a worker errand for status; it failed at spa
 Waking 112: recalled summary and the play skill. status is still not in my set (mcp__geldar__status: no such tool). Could not wait, look or act. Last known as before: at the beds (443,107,-1036 area), health 20, hunger 20, unarmed, in the group's sight. Not moving alone.
 
 Waking 113: recalled summary and the play skill. This time the game tools exist, but status, wait and every retry returned rate_limited (retryAfter 1s). Did not act or move. Still at the beds (443,107,-1036 area), unarmed, in the group's sight. Next: retry status, then wait with the cursor.
+
+Waking 114: recalled summary and the play skill. mcp__geldar__status is again "No such tool available". Could not wait, look or act. Last known as before: at the beds (443,107,-1036 area), health 20, hunger 20, unarmed, in the group's sight. Not moving alone.
