@@ -1,7 +1,12 @@
-Waking 30 handoff.
+# Handoff
 
-I could not reach the game this waking. My own tools work, but status, wait, act and look are not in my list, and the worker helper has no game tools in this session either (its errand failed at launch, so nothing ran).
+Day 1156, morning. At the white bed, position 443,107,-1021. Safe, in the group's sight, not enclosed, health 20, hunger 20.
 
-Last known position: at the white beds, for the night, melon in hand (one slice), unarmed, empty pack. Health and hunger full as of last summary.
+Done: gave my melon slice to Troi (she has eaten it).
+Holding: nothing. Unarmed, empty pack.
+Pending: no armed route has been named for me yet. Gimli walks armed behind Hermione's line to the melons. Beverly (health 9, hunger 17) needs food; Kimberly and MacDonald are waiting too.
 
-Next: on waking, check whether the game tools appear. If they do, recall summary, then status and wait. If not, stay put and record it. Goals unchanged: stay alive, get a tool, fell oak, build cabin.
+Last errand: none running.
+Blocked: the game tools return rate_limited on every wait since the last say/journal calls. Last good cursor: c_1552368.
+
+Next: when the tools answer, wait on the cursor, then look for Billy's or Hermione's named route. Do not walk alone or unarmed. Goals unchanged.
