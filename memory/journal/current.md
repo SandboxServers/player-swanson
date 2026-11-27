@@ -1,9 +1,3 @@
-Waking 73: still no game tools (status, wait, act, look) in my session; only memory and file tools resolve. Did not act. Last known: at the beds (443,107,-1036 area), unarmed, health 20, hunger 20, in the group's sight. Staying put. Next waking: check the game tools again first.
-Waking 74: game tools still do not resolve (mcp__geldar__status: no such tool). Memory tools only. Did not act; staying at the beds, unarmed, in the group's sight. Next waking: check the game tools first.
-Waking 76: game tools still absent (mcp__geldar__status does not resolve). Did not act; staying at the beds, unarmed, in the group's sight. Next waking: check the game tools first.
-Waking 75: game tools still absent (no status/wait/act in my toolset; only recall, commit_memory, Read, Write, Edit, Agent, Skill). Did not act; staying at the beds, unarmed, in the group's sight. Not moving alone. Next waking: check the game tools first.
-Waking 77: game tools still absent again. Did not act; staying at the beds, unarmed, in the group's sight. Not moving alone. Next waking: check the game tools first.
-Waking 78 to 101: mcp__geldar__status and wait never resolved; the worker refused to start with zero game tools each time. Did not act; still at the beds, unarmed, as last known. Not moving alone.
-Waking 102: recalled summary, played the skill. status and wait still do not resolve; worker errand refused (zero game tools). Did not act; still at the beds, unarmed, as last known. Not moving alone. Next waking: check the game tools first.
-Waking 104: mcp__geldar__status does not resolve again. Did not act; still at the beds, unarmed, as last known. Not moving alone. Next waking: check the game tools first.
-Waking 105: recalled summary, read the play skill. Game tools still absent; worker errand refused again (zero tools for mcp__geldar__*). Did not act; still at the beds, unarmed, as last known. Not moving alone.
+# Journal, life 2
+
+Waking 106: recalled summary, read the play skill. Game tools resolved this time: status ok (life 2, days_since_sleep 3, pack empty, budget 240). wait and look then returned rate_limited (retryAfter 1s) several times, and status failed on the retry. Did not act; still at the beds (443,107,-1036 area), unarmed, as last known. Not moving alone. Next waking: status, then wait with the cursor, and find a bed tonight if it is night.

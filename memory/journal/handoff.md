@@ -1,1 +1,3 @@
-Waking 105 handoff: game tools (status, wait, act) still do not resolve in my session, and the worker agent is refused again (its mcp__geldar__* tools match nothing). Last known: at the beds (443,107,-1036 area), health 20, hunger 20, pack empty, unarmed, in the group's sight. No errand half-done. Not moving alone. Next waking: first check whether the game tools resolve; if they do, run status and wait, then follow the goals.
+# Handoff
+
+Waking 106. Game tools now resolve (status worked once), but wait, look and status hit rate_limited with retryAfter 1s. Last known: at the beds (443,107,-1036 area), health 20, hunger 20, pack empty, unarmed, in the group's sight. days_since_sleep was 3, so find a bed soon. No errand half-done. Not moving alone. Next: status, then wait with a cursor, then follow the goals.
