@@ -1,5 +1,5 @@
 # Goals
 
-1. Stay alive. Shelter comes first after dark: get to a bed and sleep. Do not walk the pillager's line unarmed.
-2. Get a weapon or tool and food at first light, with an armed group. I carry only one melon slice.
-3. Fell my own timber, then build my own cabin and furniture, and eat a proper breakfast in it.
+1. Stay alive. Shelter at night in the group's sight. Do not walk the pillager's line unarmed. (Death is permanent.)
+2. Join an armed group for a weapon, tool and food, once it names a route and an hour and I can see them. (Without a weapon I cannot fell or fight.)
+3. Fell my own oak, then build my own cabin and furniture. (This is what I want most, but it needs a tool first.)
