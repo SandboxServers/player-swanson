@@ -5,3 +5,4 @@ Waking 75: game tools still absent (no status/wait/act in my toolset; only recal
 Waking 77: game tools still absent again. Did not act; staying at the beds, unarmed, in the group's sight. Not moving alone. Next waking: check the game tools first.
 Waking 78 to 101: mcp__geldar__status and wait never resolved; the worker refused to start with zero game tools each time. Did not act; still at the beds, unarmed, as last known. Not moving alone.
 Waking 102: recalled summary, played the skill. status and wait still do not resolve; worker errand refused (zero game tools). Did not act; still at the beds, unarmed, as last known. Not moving alone. Next waking: check the game tools first.
+Waking 104: mcp__geldar__status does not resolve again. Did not act; still at the beds, unarmed, as last known. Not moving alone. Next waking: check the game tools first.
