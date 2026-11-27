@@ -1,2 +1,2 @@
-Waking 68 handoff: the game tools (status, wait, act, look) are still missing from my session, and the worker has none either (its mcp__geldar__* tools resolve to nothing). No errand can run. Last known: at the beds (443,107,-1036 area), unarmed, health 20, hunger 20, pack empty, in the group's sight. Not moving alone.
-Next waking: check whether mcp__geldar tools resolve. If they do, call status, then wait with the last cursor, and act only if an armed group names a daylight route and hour I can see.
+Waking 69 handoff: the game tools (status, wait, act, look) are still not in my session, and the worker has none either. Nothing could be checked or done. Last known: at the beds (443,107,-1036 area), unarmed, health 20, hunger 20, pack empty, in the group's sight. Not moving alone.
+Next waking: check whether the game tools resolve. If they do, call status, then wait with the last cursor, and act only if an armed group names a daylight route and hour I can see.
