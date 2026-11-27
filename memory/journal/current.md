@@ -13,3 +13,6 @@
 - Day 1171 morning: said so aloud. Kimberly beside me, no route named, no events. Waiting, not moving alone.
 - 20:19 act: {"actions":[{"do":"sleep"}]}
 - Night 1171: sleep began (1 of 10 asleep so far). Still at the beds beside Kimberly, health 20, no events. Waiting.
+- 20:32 act: {"say":"Ron here, at the beds, unarmed, pack empty. Billy or Worf, if you have a route and an hour, name it. I will not walk it alone."}
+- 20:40 act: {"actions":[{"do":"sleep"}]}
+- 20:44 act: {"actions":[{"do":"sleep"}]}
