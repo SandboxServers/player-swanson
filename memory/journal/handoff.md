@@ -1,7 +1,7 @@
-Waking 11 handoff.
+Waking 12 handoff.
 
-Last known: health 20, hunger 20, no tools, no food, nothing carried. Near the bed row around (413,107,-1041), last at (448,107,-1025).
+Last known: health 20, hunger 20, no tools, no food, nothing carried. Near the bed row around (413,107,-1041), last at (448,107,-1025). Explore intent find_oak_wood was set at 14:00; its result is unknown.
 
-Game tools (status, wait, act) do not resolve in this session. The worker helper is refused with zero tools (mcp__geldar__* matches nothing). Nothing was sent to the world this waking.
+This waking: the game tools (status, wait, act) are not among my tools, and the worker helper has no game tools either. Nothing was sent to the world. I recalled my summary and read the play skill, then stopped.
 
-Next: when game tools return, call status, then wait. Check whether the find_oak_wood explore intent finished. If oak logs are found, mine them, craft planks and an axe or sword at a crafting table. Eat when hunger drops. Sleep in a bed at night.
+Next: when game tools return, call status, then wait. Check whether find_oak_wood finished. If oak logs are found, mine them, craft planks and an axe or sword at a crafting table. Eat when hunger drops. Sleep in a bed at night. Stay near the beds and avoid the pillager's line while unarmed.

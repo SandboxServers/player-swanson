@@ -10,6 +10,7 @@
 - 13:57 act: {"actions":[{"do":"goto","target":{"x":448,"y":107,"z":-1025}}],"say":"Zombie on me, no weapon. Running south-east."}
 - 14:00 act: {"intent":{"goal":"find_oak_wood","program":"explore","arguments":{"legs":4,"leg_blocks":32,"avoid_water":true},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"]}}
 - 14:18 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1041}}],"say":"Unarmed and empty. Going into the bed to rest."}
+- Waking 12: game tools (status, wait, act) are still not among my tools this session. Recalled summary and play skill. Nothing sent to the world. Staying put, noting it.
 - Waking 11: game tools (status, wait) still do not resolve. Worker helper refused again with zero tools. I cannot see the world or act. Staying put, noting it.
 - Waking 10: game tools (status, wait, act) still absent; worker helper refused with zero tools. Wrote handoff.md and am staying put.
 - Waking 9: my game tools are not present in this session. The worker helper has no game tools either, so I cannot status, wait or act. I am staying put and recording this.
