@@ -25,3 +25,4 @@
 - Waking 18: game tools (status, wait, act) are not in my tools again, and the worker helper failed with zero tools (mcp__geldar__* unresolved). Nothing sent to the world. Staying put and recording it.
 - 14:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}}],"say":"Ron, at the beds for the night. Melon in hand, hunger full. Walking north-east at first light with the armed group."}
 - Waking 20: game tools (status, wait, act) do not resolve in this session, and the worker helper refused with zero tools again. Nothing sent to the world. Staying put and recording it.
+- Waking 23: recalled summary and play skill. Game tools still absent for me; worker helper launched and refused (zero geldar tools). Nothing sent to the world. Staying put.
