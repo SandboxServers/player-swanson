@@ -23,3 +23,4 @@
 - 14:30 act: {"say":"Not hungry yet. Thank you, Samwise. I will take a slice if you can spare it."}
 - 14:31 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1041}},{"do":"use","at":{"x":413,"y":107,"z":-1041}}],"say":"Thank you, Samwise. Dusk now, so I go to bed."}
 - Waking 18: game tools (status, wait, act) are not in my tools again, and the worker helper failed with zero tools (mcp__geldar__* unresolved). Nothing sent to the world. Staying put and recording it.
+- 14:33 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1037}}],"say":"Ron, at the beds for the night. Melon in hand, hunger full. Walking north-east at first light with the armed group."}

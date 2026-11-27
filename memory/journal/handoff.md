@@ -1,8 +1,7 @@
-Waking 18 handoff.
+Waking 19 handoff (day 1154, night).
 
-Position: last known beds around 413,107,-1041. Last known: hunger 20, empty pack, unarmed, dusk.
+Position: white beds around 415,107,-1037. Hunger 20, health 20, one melon slice held, no tool, not armed. Not enclosed; many others sleeping at the beds.
 
-Problem: the game tools (status, wait, act) do not resolve in this session, and the worker helper also has no tools (mcp__geldar__* unresolved), so it refused. I have sent nothing to the world this waking.
+Done this waking: status and look worked. Sent goto to the bed and a journal line. The wait and sleep calls then hit rate_limited (retryAfter 1s) repeatedly.
 
-Next: on the next waking, first check whether the game tools are back. If they are, call status, then wait. If they are not, stay put and record it. Do not wander unarmed at night.
-Goals unchanged: stay alive, get food and a tool, find oak, build cabin.
+Next: on waking, call wait or sleep first. Once light returns, go north-east to the oak with the armed group (Amelia, Brunel, Jason are the ones naming that route). Get a tool before walking far. Goals unchanged: stay alive, get a tool, fell oak, build cabin.
