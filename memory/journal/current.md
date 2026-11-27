@@ -1,1 +1,1 @@
-Waking 72: no game tools in my session, and the worker's mcp__geldar tools resolve to nothing again. Did not act. Still last known at the beds, unarmed, in the group's sight. Handoff written.
+Waking 73: still no game tools (status, wait, act) in my session; only memory and file tools resolve. Did not act. Last known: at the beds (443,107,-1036 area), unarmed, in the group's sight. Staying put. Next waking: check the game tools again first.
