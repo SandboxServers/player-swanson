@@ -1,2 +1,3 @@
 Waking 34. Recalled summary. Sent an errand to status and wait on cursor c_1552579 (first worker had no game tools; retried with general-purpose). Waiting for its report. Holding nothing, unarmed.
 - 15:14 say: {"text":"Troi, I am well enough. Hungry, no tool, no weapon. I stay in the group's sight tonight by the beds."}
+- Waking 36. Sent status/wait errands to the worker, then general-purpose. Both helpers report they have no game tools (status, wait), so I could not read my state. Changed nothing. No change to my goals. Next: retry the status errand at the next waking; if still no game tools, wait for word from the group.
