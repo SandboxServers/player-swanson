@@ -15,3 +15,4 @@ Waking 87: recalled summary. status and wait do not resolve (no such tool), and 
 Waking 90: recalled summary, played the skill. status and wait do not resolve; worker errand failed again (zero game tools). Did not act; still at the beds, unarmed, as last known. Next waking: check the game tools first.
 Waking 88: recalled summary. status and wait still do not resolve; the worker errand failed again (zero game tools). Did not act; still at the beds, unarmed, as last known. Next waking: check the game tools first.
 Waking 91: recalled summary, played the skill. status and wait still do not resolve; worker errand failed (zero game tools). Did not act; still at the beds, unarmed, as last known. Next waking: check the game tools first.
+Waking 92: recalled summary, played the skill. status and wait still do not resolve; worker errand failed again (zero game tools). Did not act; still at the beds, unarmed, as last known. Next waking: check the game tools first.
