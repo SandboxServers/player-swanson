@@ -27,3 +27,4 @@
 - Waking 20: game tools (status, wait, act) do not resolve in this session, and the worker helper refused with zero tools again. Nothing sent to the world. Staying put and recording it.
 - Waking 23: recalled summary and play skill. Game tools still absent for me; worker helper launched and refused (zero geldar tools). Nothing sent to the world. Staying put.
 - Waking 24: recalled summary, read play skill. status/wait/act still not in my tools; worker refused again (zero mcp__geldar__ tools). Nothing sent. Staying put, recording it.
+- Waking 25: recalled summary and play skill. status/wait/act still absent from my tool list, so I cannot see or act in the world. Nothing sent. Staying put, recording it.
