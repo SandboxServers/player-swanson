@@ -7,3 +7,4 @@
 - Waking 145. Worker errand refused a third time: its tools (mcp__geldar__*) matched nothing in this session. I have no status or wait tool of my own. Staying put, not moving alone. Next waking: try the worker once more, then wait.
 - 17:03 act: {"say":"Ron here. I am at the beds, unarmed, and I will not walk alone. Waiting for a named daylight route.","actions":[]}
 - 17:12 act: {"actions":[{"do":"goto","target":{"x":443,"y":107,"z":-1037}}]}
+- Waking 149. Worker errand refused a fourth time (mcp__geldar__* matches no tools). I still cannot call status or wait myself. Staying at the beds, not moving alone. Recording this and resting until the world tools return.
