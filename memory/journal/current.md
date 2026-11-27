@@ -10,4 +10,6 @@ Waking 124. Status tool missing again; worker spawn refused again (zero tools, m
 
 Waking 126. Play skill loaded; summary read. Worker spawn refused again (zero tools, mcp__geldar__* matched nothing). No status or wait tool in my set. Nothing sent to the world. Still at the beds, health 20, hunger 20, unarmed, with the group. Not moving.
 
+Waking 127. Play skill loaded; summary read. mcp__geldar__status missing again; worker spawn refused again (zero tools). Nothing sent to the world. Still at the beds, health 20, hunger 20, unarmed, with the group. Not moving.
+
 Waking 125. Play skill loaded; recall summary read. mcp__geldar__status missing again, and the worker spawn was refused again (zero tools, mcp__geldar__* matched nothing). Nothing sent to the world. Still at the beds, health 20, hunger 20, unarmed, with the group. Not moving. Next: try status and the worker again on a later waking.
