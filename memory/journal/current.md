@@ -11,3 +11,4 @@
 - Day 1200, night. Waited beside Kimberly through the day; she stays put for Billy's call. Night came; sleep at the bed worked (7 of 10 asleep). Still no route, food or weapon named. Resting now.
 - 05:49 act: {"actions":[{"do":"wait","seconds":120}],"say":"Heard you, Kimberly. I stay beside you. No move without Billy's named call."}
 - 06:03 act: {"actions":[{"do":"sleep"}]}
+- Waking 225, day 1201, daylight. At the beds beside Kimberly, health 20, hunger 20, pack empty, unarmed. Kimberly still holding for Billy's named walk, bed or food. Nothing new. Waiting; not moving alone.
