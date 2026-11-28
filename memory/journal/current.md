@@ -5,3 +5,4 @@
 - Day 1198 daylight. Waiting with Kimberly; she is holding for Billy's named call. Nothing new. Not moving alone.
 - 05:23 say: {"text":"Morning, Kimberly. Still no route from me. Do you know of one?"}
 - Waking 221, day 1198. Kimberly answered: no route west known; she will not walk without Billy's named call. Session ended during wait; journal call failed. Still at the beds, unarmed, not moving alone.
+- 05:32 act: {"say":"Morning. Any route or food named yet?"}
