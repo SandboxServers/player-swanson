@@ -10,3 +10,4 @@
 - Daytime still. Sleep refused ("not night"). Said I am waiting beside Kimberly, unarmed, nothing named by Billy. Waited in long spans; nothing new. Staying put.
 - 03:16 act: {"say":"Swanson here, beside the beds with Kimberly. Holding still. I will not walk alone. If Billy or Worf names a route, bed or food, I will hear it.","actions":[]}
 - Waited 240s. Daytime, sleep refused ("not night"). Still at the beds with Kimberly, health 20, hunger 20, unarmed, nothing named. Staying put; will sleep only at night.
+- 03:29 act: {"say":"Swanson here, at the beds with Kimberly. Still no route named. I will not move alone.","actions":[]}
