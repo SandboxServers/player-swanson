@@ -4,4 +4,6 @@ Waking 228. At the beds 444,107,-1037 beside Kimberly, daytime, health 20, hunge
 
 Waking 230. Still at the beds beside Kimberly, day, health 20, hunger 20, pack empty. Kimberly holds still until Billy names a walk, bed or food. Nothing new heard. Waiting.
 
+Waking 232. Still at the beds beside Kimberly, health 20, hunger 20, pack empty. Days since sleep 3. No route, food or weapon named; no events in two waits. Waiting.
+
 Waking 231. Same place, beside Kimberly, health 20, hunger 20, pack empty, unarmed. Days since sleep: 2. Kimberly repeats she holds still for Billy. No route, food or weapon named. Waiting.
