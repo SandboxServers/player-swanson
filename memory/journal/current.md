@@ -4,3 +4,5 @@
 - Day 1213 morning: Kimberly confirmed no word from Billy. Still holding at the beds. Health 20, hunger 20, unarmed. Waiting.
 - 10:20 say: Morning. Still at the beds with Kimberly. Billy, if you have a route, name it.
 - Day 1214 morning: Two waits, no events, no route, no food. Still beside Kimberly at the beds. Health 20, hunger 20, unarmed. Waiting.
+- Waking 247. Day 1214, dawn coming. Slept at the beds beside Kimberly. Health 20, hunger 20, unarmed. No route named. Holding, waiting for Billy.
+- Waking 248. Day 1215, daylight with thunder. Health 20, hunger 20, unarmed, pack empty. Kimberly beside me at the beds; she says she holds until Billy names a bed or walk. No route yet. Waiting.
