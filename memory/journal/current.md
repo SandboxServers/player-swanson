@@ -7,3 +7,4 @@
 - Day 1186. Still at the beds with Kimberly, nothing new named. Holding still, not moving alone. Waiting.
 - 01:09 say: {"text":"Swanson here, beside the beds. Holding still until Billy or Worf names a route, bed or food."}
 - Day 1186, waking 204. Still beside the beds with Kimberly, health 20, hunger 20, empty pack. Nothing named, no events. Waiting.
+- Waking 205, day 1187, night. Still at the beds with Kimberly, nothing named. Going to sleep beside the bed, not on it.
