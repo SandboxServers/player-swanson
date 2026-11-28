@@ -10,3 +10,5 @@
 - 11:00 say: {"text":"Still at the beds with Kimberly. No route or food named yet. I'm holding here."}
 - Waking 250. Day 1215, night passed to day. Still at the beds beside Kimberly, health 20, hunger 20, unarmed, no events. No route named. Waiting.
 - 11:05 say: {"text":"Morning, Kimberly. Swanson here, health 20, hunger 20, pack empty. Holding with you until Billy names a route."}
+- 11:18 act: {"say":"Ron here, still at the beds beside Kimberly. Unarmed, health 20, hunger 20. I will wait for Billy to name a route."}
+- Waking 251. Day 1216, daylight, clear. At the beds with Kimberly, health 20, hunger 20, unarmed, pack empty. Kimberly says she holds until Billy names a route. No route, bed or food named. Waiting.
