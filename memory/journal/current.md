@@ -4,3 +4,4 @@
 - 00:44 say: {"text":"Kimberly, do you know of a route, food or a tool in this area?"}
 - 00:44 say: {"text":"Then we hold still. I will not walk alone. Tell me when Billy names a route."}
 - Kimberly replied: no food, tool, sword or safe route known; she holds beside me until Billy names a walk. Waiting, health 20, hunger 20, day 1185.
+- Day 1186. Still at the beds with Kimberly, nothing new named. Holding still, not moving alone. Waiting.
