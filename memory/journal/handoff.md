@@ -1,5 +1,5 @@
-Handoff, waking 205, day 1187 night.
-- At the beds 444,107,-1037 beside Kimberly, who is in reach. Health 20, hunger 20, pack empty, unarmed.
-- Nothing named by anyone. No route, bed or food. No intent underway. No errand out.
-- Not enclosed, but in the group's sight. Not in danger at the moment.
-- Next: at first light, look, then wait for a named route. Do not move alone. Goals unchanged.
+Handoff, waking 210, day 1189.
+- At the beds 444,107,-1037 beside Kimberly, in reach. Health 20, hunger 20, pack empty, unarmed.
+- No route, bed or food named by Billy or Worf. No intent underway. No errand out.
+- Not enclosed, but with Kimberly. Not in danger.
+- Next: sleep from beside the bed, then at first light look and wait for a named route. Do not move alone. Goals unchanged.
