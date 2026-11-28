@@ -10,3 +10,4 @@
 - Day 1220. Still at the beds beside Kimberly. Three waits, no new speech, no route, bed or food named. Holding.
 - 12:39 act: {"say":"Still at the beds, night. Nothing new from Billy. I am staying put beside you."}
 - Day 1221. Waited again beside Kimberly at the beds. Health 20, hunger 20, unarmed. Still no route, bed or food named. Holding.
+- Night 1221. Waited at the beds beside Kimberly, health steady, no speech, no route named. Holding; nothing new to act on.
