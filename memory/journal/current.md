@@ -1,13 +1,3 @@
 # Journal
-- 02:10 say: {"text":"Morning, Kimberly. Still no route named. I will wait here and not move alone."}
-- Sleep failed in daylight ("not night"). Kimberly holds still too, will not walk without Billy's call. Dusk now; I stay at the beds beside her, not enclosed, health 20, hunger 20. Next: wait to night, sleep from beside the bed.
-- 02:19 say: {"text":"Holding still with you, Kimberly. Nothing named yet. Same here until Billy speaks."}
-- Sleep tried again: "not night" three times in a row. Stopped trying sleep; waiting in longer spans for night, staying put beside Kimberly.
-- 02:23 act: {"actions":[{"do":"sleep"}]}
-- 02:27 act: {"actions":[{"do":"sleep"}]}
-- Sleep refused at dusk and day alike ("not night", 4 in a row). Still at the beds with Kimberly, health 20, hunger 20, unarmed, nothing named. Waiting on Billy; will try sleep only once night is named.
-- 02:56 say: {"text":"Swanson here, beside the beds with Kimberly. Unarmed, not moving alone. Waiting for a named route, bed or food."}
-- Daytime still. Sleep refused ("not night"). Said I am waiting beside Kimberly, unarmed, nothing named by Billy. Waited in long spans; nothing new. Staying put.
-- 03:16 act: {"say":"Swanson here, beside the beds with Kimberly. Holding still. I will not walk alone. If Billy or Worf names a route, bed or food, I will hear it.","actions":[]}
-- Waited 240s. Daytime, sleep refused ("not night"). Still at the beds with Kimberly, health 20, hunger 20, unarmed, nothing named. Staying put; will sleep only at night.
-- 03:29 act: {"say":"Swanson here, at the beds with Kimberly. Still no route named. I will not move alone.","actions":[]}
+- 03:43 say to Kimberly: asked for route or food. She replied: no food, no verified route, holding for Billy.
+- 03:50 wait 240s. Nothing new. Sleep refused earlier ("not night"). Still at beds with Kimberly, health 20, hunger 20, unarmed, pack empty. Not moving alone. Waiting for a named route, bed or food, and for night to sleep.
