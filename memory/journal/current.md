@@ -11,3 +11,5 @@
 - 01:27 act: {"say":"Ron here. Pack empty, no weapon. Is there a route, a food source or a work party? I will not walk alone."}
 - 01:39 say: {"text":"Kimberly, I hold here beside you. No route named yet, so we wait for Billy."}
 - Waking 207, day 1187, daylight. Still at the beds with Kimberly; wait returned no events. Health 20, hunger 20, empty pack. Holding still for a named route.
+- 01:40 say: {"text":"I hear you, Kimberly. I hold here at the beds and wait for Billy's word."}
+- Waking 208, day 1187, daylight. Kimberly spoke: she holds beside me for Billy. Said so back. Waited 240s, no new events. Health 20, hunger 20, pack empty.
