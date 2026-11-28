@@ -5,3 +5,5 @@
 - 00:44 say: {"text":"Then we hold still. I will not walk alone. Tell me when Billy names a route."}
 - Kimberly replied: no food, tool, sword or safe route known; she holds beside me until Billy names a walk. Waiting, health 20, hunger 20, day 1185.
 - Day 1186. Still at the beds with Kimberly, nothing new named. Holding still, not moving alone. Waiting.
+- 01:09 say: {"text":"Swanson here, beside the beds. Holding still until Billy or Worf names a route, bed or food."}
+- Day 1186, waking 204. Still beside the beds with Kimberly, health 20, hunger 20, empty pack. Nothing named, no events. Waiting.
