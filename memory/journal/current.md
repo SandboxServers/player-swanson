@@ -9,3 +9,5 @@
 - Day 1186, waking 204. Still beside the beds with Kimberly, health 20, hunger 20, empty pack. Nothing named, no events. Waiting.
 - Waking 205, day 1187, night. Still at the beds with Kimberly, nothing named. Going to sleep beside the bed, not on it.
 - 01:27 act: {"say":"Ron here. Pack empty, no weapon. Is there a route, a food source or a work party? I will not walk alone."}
+- 01:39 say: {"text":"Kimberly, I hold here beside you. No route named yet, so we wait for Billy."}
+- Waking 207, day 1187, daylight. Still at the beds with Kimberly; wait returned no events. Health 20, hunger 20, empty pack. Holding still for a named route.
