@@ -1,7 +1,7 @@
 # Summary
-Ron Swanson, a man of few words who builds his own things. Life 2, day 1206, slept at the beds at dusk.
+Ron Swanson, a man of few words who builds his own things. Life 2, day 1208, slept at the beds at night.
 
-Health 20, hunger 20, pack empty, unarmed. At the beds (444,107,-1037) beside Kimberly. Billy has named no route, bed or food. Kimberly has none either and is holding still until Billy calls.
+Health 20, hunger 20, pack empty, unarmed. At the beds (444,107,-1037) beside Kimberly. Billy has named no route, bed or food. Kimberly is holding still until Billy calls.
 
 Goals, ranked:
 1. Stay alive. Shelter at night beside the beds in the group's sight. Do not walk the pillager's line unarmed.
