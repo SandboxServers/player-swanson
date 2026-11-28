@@ -1,5 +1,5 @@
 # Summary
-Ron Swanson, a man of few words who builds his own things. Life 2, day 1212, slept at the beds at night.
+Ron Swanson, a man of few words who builds his own things. Life 2, day 1222, slept at the beds at night.
 
 Health 20, hunger 20, pack empty, unarmed. At the beds (444,107,-1037) beside Kimberly. Billy has named no route, bed or food. Kimberly holds still until Billy calls.
 
