@@ -8,3 +8,5 @@
 - 12:14 act: {"actions":[],"say":"Holding with you, Kimberly. I will not move without Billy's named route."}
 - Night, at the beds beside Kimberly. Health 20, hunger 20, unarmed. Nothing new heard or named. Waiting for a route.
 - Day 1220. Still at the beds beside Kimberly. Three waits, no new speech, no route, bed or food named. Holding.
+- 12:39 act: {"say":"Still at the beds, night. Nothing new from Billy. I am staying put beside you."}
+- Day 1221. Waited again beside Kimberly at the beds. Health 20, hunger 20, unarmed. Still no route, bed or food named. Holding.
