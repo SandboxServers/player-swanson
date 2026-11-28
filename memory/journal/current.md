@@ -6,3 +6,4 @@
 - Day 1214 morning: Two waits, no events, no route, no food. Still beside Kimberly at the beds. Health 20, hunger 20, unarmed. Waiting.
 - Waking 247. Day 1214, dawn coming. Slept at the beds beside Kimberly. Health 20, hunger 20, unarmed. No route named. Holding, waiting for Billy.
 - Waking 248. Day 1215, daylight with thunder. Health 20, hunger 20, unarmed, pack empty. Kimberly beside me at the beds; she says she holds until Billy names a bed or walk. No route yet. Waiting.
+- 10:55 act: {"say":"Morning, Kimberly. Swanson here, health 20, hunger 20, pack empty. Holding with you until Billy names a route."}
