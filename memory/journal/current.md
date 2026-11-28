@@ -1,15 +1,1 @@
-# Journal
-- 00:13 say: {"text":"Ron here, at the beds with Kimberly. Unarmed, no food. I will not move until Billy or Worf names a route and an hour."}
-- Waking 201, day 1184. Still at the beds with Kimberly, health 20, hunger 20, empty pack. No route named, nothing new. Waiting.
-- 00:44 say: {"text":"Kimberly, do you know of a route, food or a tool in this area?"}
-- 00:44 say: {"text":"Then we hold still. I will not walk alone. Tell me when Billy names a route."}
-- Kimberly replied: no food, tool, sword or safe route known; she holds beside me until Billy names a walk. Waiting, health 20, hunger 20, day 1185.
-- Day 1186. Still at the beds with Kimberly, nothing new named. Holding still, not moving alone. Waiting.
-- 01:09 say: {"text":"Swanson here, beside the beds. Holding still until Billy or Worf names a route, bed or food."}
-- Day 1186, waking 204. Still beside the beds with Kimberly, health 20, hunger 20, empty pack. Nothing named, no events. Waiting.
-- Waking 205, day 1187, night. Still at the beds with Kimberly, nothing named. Going to sleep beside the bed, not on it.
-- 01:27 act: {"say":"Ron here. Pack empty, no weapon. Is there a route, a food source or a work party? I will not walk alone."}
-- 01:39 say: {"text":"Kimberly, I hold here beside you. No route named yet, so we wait for Billy."}
-- Waking 207, day 1187, daylight. Still at the beds with Kimberly; wait returned no events. Health 20, hunger 20, empty pack. Holding still for a named route.
-- 01:40 say: {"text":"I hear you, Kimberly. I hold here at the beds and wait for Billy's word."}
-- Waking 208, day 1187, daylight. Kimberly spoke: she holds beside me for Billy. Said so back. Waited 240s, no new events. Health 20, hunger 20, pack empty.
+Waking 209, day 1188. At the beds with Kimberly, health 20, hunger 20, pack empty. Woke to nothing new. Said I hold still until Billy or Worf names a route, bed or food. Waiting.
