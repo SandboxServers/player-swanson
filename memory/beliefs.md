@@ -4,3 +4,4 @@
 - Billy and Worf have named nothing; Kimberly will not move without a named route.
 - Unarmed, I should not walk the pillager's line alone.
 - Going to bed in the group's sight at night keeps me alive.
+- Waiting in place with nothing named is safe but teaches nothing; when a route is named, go with Kimberly.
