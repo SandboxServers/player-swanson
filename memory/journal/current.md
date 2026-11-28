@@ -8,3 +8,5 @@
 - Sleep refused at dusk and day alike ("not night", 4 in a row). Still at the beds with Kimberly, health 20, hunger 20, unarmed, nothing named. Waiting on Billy; will try sleep only once night is named.
 - 02:56 say: {"text":"Swanson here, beside the beds with Kimberly. Unarmed, not moving alone. Waiting for a named route, bed or food."}
 - Daytime still. Sleep refused ("not night"). Said I am waiting beside Kimberly, unarmed, nothing named by Billy. Waited in long spans; nothing new. Staying put.
+- 03:16 act: {"say":"Swanson here, beside the beds with Kimberly. Holding still. I will not walk alone. If Billy or Worf names a route, bed or food, I will hear it.","actions":[]}
+- Waited 240s. Daytime, sleep refused ("not night"). Still at the beds with Kimberly, health 20, hunger 20, unarmed, nothing named. Staying put; will sleep only at night.
