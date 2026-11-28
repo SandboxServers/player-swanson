@@ -8,3 +8,4 @@
 - 01:09 say: {"text":"Swanson here, beside the beds. Holding still until Billy or Worf names a route, bed or food."}
 - Day 1186, waking 204. Still beside the beds with Kimberly, health 20, hunger 20, empty pack. Nothing named, no events. Waiting.
 - Waking 205, day 1187, night. Still at the beds with Kimberly, nothing named. Going to sleep beside the bed, not on it.
+- 01:27 act: {"say":"Ron here. Pack empty, no weapon. Is there a route, a food source or a work party? I will not walk alone."}
